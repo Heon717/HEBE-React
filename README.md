@@ -41,6 +41,6 @@ HEBE는 하루하루 할일을 메모,체크할 수 있는 TodoList, 유저의 �
 ## 팀원
  |Member Name|Part|GitHub|E-mail|
  |---|---|---|---|
- |신홍준|Front-End Back-end 서버환경 구축|||
- |이지수|Front-End Back-end Security|||
- |강성헌|Front-End Back-end |||
+ |신홍준|Front-End<br/>Back-end<br/>서버환경 구축|||
+ |이지수|Front-End<br/>Back-end<br/>Security|||
+ |강성헌|Front-End<br/>Back-end |||
